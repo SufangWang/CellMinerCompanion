@@ -12,8 +12,8 @@ Pete Pascuzzi: ppascuzz@purdue.edu
 
 # Availability
 
-The source code for CellMiner Companion are available at 
-https://github.com/xxx/xxx.
+The source code for CellMiner Companion are available at
+https://github.com/pepascuzzi/CellMinerCompanion.git
 
 #------------------------------------------------------------------------------
 # Required packages
